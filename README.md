@@ -1,3 +1,6 @@
+<img width="987" height="766" alt="image" src="https://github.com/user-attachments/assets/f80eafb4-d123-40c3-a4c6-6c294d7869d5" />
+
+
 # SQL Basics Index
 
 - [001. basics.sql](./001.%20basics.sql)
